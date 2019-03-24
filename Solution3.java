@@ -1,7 +1,7 @@
 package io.github.jiangdequan;
 import java.util.ArrayList;
 
-public class Solution {
+public class Solution3 {
     private static ArrayList<Integer> list = new ArrayList<>();
 
     public static ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
