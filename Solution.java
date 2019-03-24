@@ -12,6 +12,9 @@ public class Solution {
         return list;
     }
 
+    /**
+     * 测试提交
+     */
     public static void main(String[] args) {
         printListFromTailToHead(null);
     }
